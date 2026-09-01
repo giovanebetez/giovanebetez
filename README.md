@@ -1,11 +1,10 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:38BDF8&height=220&section=header&text=Olá,%20eu%20sou%20o%20Giovane!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Cientista+de+Dados+%F0%9F%93%8A;Sempre+aprendendo+algo+novo;Bem-vindo+ao+meu+perfil%21" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Engenheiro+de+Software+%F0%9F%92%BB;Sempre+aprendendo+algo+novo;Bem-vindo+ao+meu+perfil%21" />
 
-### Engenheiro de Software
+### Engenheiro de Software 💻
 
 <img src="https://img.shields.io/github/followers/giovanebetez?label=SEGUIDORES&style=for-the-badge&color=38BDF8&labelColor=0D1117" />
 <img src="https://komarev.com/ghpvc/?username=giovanebetez&label=VISITAS&style=for-the-badge&color=38BDF8&labelColor=0D1117" />
@@ -16,8 +15,8 @@
 
 ### 🙋‍♂️ Sobre mim
 
-- 🔭 Atualmente trabalhando em: *(ex: análise de dados de vendas)*
-- 🌱 Aprendendo: *(ex: Machine Learning, Power BI)*
+- 🔭 Atualmente trabalhando em: *(ex: desenvolvimento de APIs e sistemas web)*
+- 🌱 Aprendendo: *(ex: arquitetura de software, cloud)*
 - 💬 Pergunte\-me sobre: *(seus temas de interesse)*
 - 📫 Como me encontrar: *(e\-mail ou LinkedIn)*
 
@@ -27,11 +26,13 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=38BDF8" />
 
 </div>
 
