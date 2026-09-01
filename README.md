@@ -48,14 +48,6 @@
 
 <br>
 
-### 📫 Contato
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/giovane-betez-24b80924b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/></a>
-<a href="mailto:giovanebetez@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8"/></a>
-
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0D1117&height=100&section=footer" width="100%"/>
