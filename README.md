@@ -1,16 +1,61 @@
-## Hi there 👋
 
-<!--
-**giovanebetez/giovanebetez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:38BDF8&height=220&section=header&text=Olá,%20eu%20sou%20o%20Giovane!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Cientista+de+Dados+%F0%9F%93%8A;Sempre+aprendendo+algo+novo;Bem-vindo+ao+meu+perfil%21" />
+
+### Engenheiro de Software
+
+<img src="https://img.shields.io/github/followers/giovanebetez?label=SEGUIDORES&style=for-the-badge&color=38BDF8&labelColor=0D1117" />
+<img src="https://komarev.com/ghpvc/?username=giovanebetez&label=VISITAS&style=for-the-badge&color=38BDF8&labelColor=0D1117" />
+
+</div>
+
+* * *
+
+### 🙋‍♂️ Sobre mim
+
+- 🔭 Atualmente trabalhando em: *(ex: análise de dados de vendas)*
+- 🌱 Aprendendo: *(ex: Machine Learning, Power BI)*
+- 💬 Pergunte\-me sobre: *(seus temas de interesse)*
+- 📫 Como me encontrar: *(e\-mail ou LinkedIn)*
+
+<br>
+
+### 🛠️ Habilidades & Tecnologias
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=38BDF8" />
+
+</div>
+
+<br>
+
+### 📈 Estatísticas do GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=giovanebetez&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=giovanebetez&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="48%"/>
+
+</div>
+
+<br>
+
+### 📫 Contato
+
+<div align="center">
+
+<a href="https://linkedin.com/in/giovanebetez" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/></a>
+<a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8"/></a>
+<a href="https://instagram.com/SEU-INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=38BDF8"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0D1117&height=100&section=footer" width="100%"/>
