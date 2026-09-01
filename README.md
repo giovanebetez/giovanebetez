@@ -15,7 +15,12 @@
 ### 🙋‍♂️ Sobre mim
 
  💬Atuação na área de Tecnologia da Informação com foco em sistemas, análise de requisitos e banco de dados, realizando levantamento e entendimento de demandas, identificação de necessidades dos usuários e acompanhamento de soluções sistêmicas. Experiência com SQL Server e Oracle, incluindo consultas, análise e manipulação de dados, além de suporte e acompanhamento de sistemas corporativos. Atuação também na identificação e resolução de problemas, testes e validação de funcionalidades, contribuindo para a melhoria dos processos e sistemas utilizados pela empresa.
-- 📫 Como me encontrar: *(e\-mail ou LinkedIn)*
+- 📫 Como me encontrar:
+ <div align="center">
+<a href="https://www.linkedin.com/in/giovane-betez-24b80924b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/></a>
+<a href="mailto:giovanebetez@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8"/></a>
+<br>
+
 
 <br>
 
