@@ -23,11 +23,10 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/SQL%20Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Oracle-0D1117?style=for-the-badge&logo=oracle&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Inteligência%20Artificial-0D1117?style=for-the-badge&logo=openai&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Integração%20com%20IA-0D1117?style=for-the-badge&logo=huggingface&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=38BDF8" />
 
